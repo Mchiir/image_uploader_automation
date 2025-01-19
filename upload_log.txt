@@ -1,0 +1,9 @@
+2025-01-19 11:51:16,982 - The file new-object1_20250119-115116.jpg has been successfully uploaded.
+2025-01-19 11:52:21,781 - The file new-object1_20250119-115116_20250119-115221.jpg has been successfully uploaded.
+2025-01-19 11:53:34,551 - The file new-object1_20250119-115334.jpg has been successfully uploaded.
+2025-01-19 11:57:04,935 - MQTT Image Uploader - Version 1.0.0
+Author: Your Name
+2025-01-19 11:57:49,684 - Program stopped by user.
+2025-01-19 11:57:55,646 - MQTT Image Uploader - Version 1.0.0
+Author: Mr. Mchrispin
+2025-01-19 11:58:13,216 - Program stopped by user.
