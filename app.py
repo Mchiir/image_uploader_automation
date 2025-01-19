@@ -15,10 +15,10 @@ version = "1.0.0"
 welcome_message = f"{program_name} - Version {version}\nAuthor: {author}"
 
 # The folder to monitor for new images
-image_folder = 'F:/GIT-Push/Embedded-systems/MQTT-IMAGE-UPLOADER-AUTOMATION/src'
+image_folder = './src'
 
 # The folder to move uploaded images to
-uploaded_folder = 'F:/GIT-Push/Embedded-systems/MQTT-IMAGE-UPLOADER-AUTOMATION/dist'
+uploaded_folder = './dist'
 
 # The upload URL and key attribute
 upload_url = 'https://projects.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/4e8d42b606f70fa9d39741a93ed0356c/iot_testing_202501/upload.php'
