@@ -7,3 +7,10 @@ Author: Your Name
 2025-01-19 11:57:55,646 - MQTT Image Uploader - Version 1.0.0
 Author: Mr. Mchrispin
 2025-01-19 11:58:13,216 - Program stopped by user.
+2025-01-19 12:00:01,330 - MQTT Image Uploader - Version 1.0.0
+Author: Mr. Mchrispin
+2025-01-19 12:00:59,450 - The file new-object1_20250119-120059.jpg has been successfully uploaded.
+2025-01-19 12:05:27,082 - MQTT Image Uploader - Version 1.0.0
+Author: Mr. Mchrispin
+2025-01-19 12:05:27,084 - Created the source folder: ./src
+2025-01-19 12:05:27,085 - Created the destination folder: ./dist

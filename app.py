@@ -29,6 +29,17 @@ logging.info(welcome_message)
 print(welcome_message)
 print("Program is starting...")
 
+# Check if the folders exist, if not, create them
+if not os.path.exists(image_folder):
+    os.makedirs(image_folder)
+    logging.info(f"Created the source folder: {image_folder}")
+    print(f"Created the source folder: {image_folder}")
+    
+if not os.path.exists(uploaded_folder):
+    os.makedirs(uploaded_folder)
+    logging.info(f"Created the destination folder: {uploaded_folder}")
+    print(f"Created the destination folder: {uploaded_folder}")
+
 # Signal handler to capture graceful exit (Ctrl+C)
 def signal_handler(sig, frame):
     print("\nGoodbye! Program is stopping...")
