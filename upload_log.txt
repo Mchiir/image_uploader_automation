@@ -14,3 +14,5 @@ Author: Mr. Mchrispin
 Author: Mr. Mchrispin
 2025-01-19 12:05:27,084 - Created the source folder: ./src
 2025-01-19 12:05:27,085 - Created the destination folder: ./dist
+2025-01-19 12:12:23,445 - The file new-object3.jpg has been successfully uploaded.
+2025-01-19 12:15:57,336 - Program stopped by user.

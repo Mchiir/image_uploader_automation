@@ -46,7 +46,7 @@ def signal_handler(sig, frame):
     logging.info("Program stopped by user.")
     sys.exit(0)
 
-# Set up signal handler for graceful exit
+# Seting up signal handler for graceful exit
 signal.signal(signal.SIGINT, signal_handler)
 
 try:
